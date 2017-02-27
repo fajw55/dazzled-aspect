@@ -1,0 +1,26 @@
+{
+  "name": "dazzled-aspect",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajw55/dazzled-aspect.git"
+  },
+  "author": "fajw55",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fajw55/dazzled-aspect/issues"
+  },
+  "homepage": "https://github.com/fajw55/dazzled-aspect#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "webpack": "^2.2.1"
+  }
+}
